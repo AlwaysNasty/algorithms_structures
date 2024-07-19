@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712927941 source:d:\c++\algorithms_structures\stl\main.cpp
+	<iostream>
+	<utility>
+	<set>
+	<map>
+
